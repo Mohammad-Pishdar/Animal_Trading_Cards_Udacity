@@ -16,3 +16,4 @@ is to create the card and swapping out the fish with an animal of your choice.
     *   spacing between the animal's name, image, and information (you will need to use the property [padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding))
 # Final Result
 Here is the final result upon the completion of the project:
+![Persian_cheetah](Dragster.jpg)
