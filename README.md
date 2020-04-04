@@ -17,4 +17,4 @@ is to create the card and swapping out the fish with an animal of your choice.
 # Final Result
 Here is the final result upon the completion of the project  
 
-![image](files/Users/jzhang/Desktop/Isolated.png)
+![image](https://github.com/Mohammad-Pishdar/Animal_Trading_Cards_Udacity/blob/master/final_result.png)
